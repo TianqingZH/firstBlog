@@ -25,7 +25,7 @@ SECRET_KEY = '(h(5m%ezrjv0_t85ol8pq#n52@!n&@a@+%n_o7h+x*rn_^_!%^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.tianqingzh.biz']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.chiyu.site']
 
 
 # Application definition
